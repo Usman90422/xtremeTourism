@@ -1,0 +1,4 @@
+
+const String kXtremeSoftDesc="Xtreme Software Services Pvt Ltd is a Peshawar pakistan based software development organization with a branch in Abu Dhabi, UAE. We are offering the best business software solutions for organizations and business visionaries across Pakistan";
+const String kXtremesPropertyDesc="Xtremes marketing Manager deals buy and sale properties system and provide a great facilities to end user.";
+const String kXtremesTourismDesc="the leading tourism website in Peshawar, KPK. Xtreme tourism is founded with an aim to provide the best quality travel services to tourists and promote the positive image of Pakistan in the world";
